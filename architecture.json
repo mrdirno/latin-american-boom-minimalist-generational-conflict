@@ -1,0 +1,160 @@
+{
+  "book_id": "latin_american_boom_minimalist_generational_conflict",
+  "title": "The Cliff's Edge",
+  "tagline": "A father's impossible house becomes the battleground for a family's legacy.",
+  "target_words": 70000,
+  "actual_words": 74270,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Concrete vs. The Weight of Memory",
+    "The Illusion of Permanence",
+    "Silence as the Family Language",
+    "The Architecture of Resentment"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Last of the Good Cement",
+      "words": 3100
+    },
+    {
+      "ch": 2,
+      "title": "The City Below",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "Delivery at Dawn",
+      "words": 2800
+    },
+    {
+      "ch": 4,
+      "title": "The Unspoken Debt",
+      "words": 3100
+    },
+    {
+      "ch": 5,
+      "title": "Dinner at Seven",
+      "words": 3200
+    },
+    {
+      "ch": 6,
+      "title": "The Architect's Plan",
+      "words": 2900
+    },
+    {
+      "ch": 7,
+      "title": "A Crack in the Foundation",
+      "words": 3100
+    },
+    {
+      "ch": 8,
+      "title": "Soledad's Madrid",
+      "words": 3000
+    },
+    {
+      "ch": 9,
+      "title": "The Heart's Rebellion",
+      "words": 2900
+    },
+    {
+      "ch": 10,
+      "title": "The Ghost of the Old House",
+      "words": 3300
+    },
+    {
+      "ch": 11,
+      "title": "Negotiating with Physics",
+      "words": 2800
+    },
+    {
+      "ch": 12,
+      "title": "The Storm from the Sea",
+      "words": 3200
+    },
+    {
+      "ch": 13,
+      "title": "The Contingency Fund",
+      "words": 2900
+    },
+    {
+      "ch": 14,
+      "title": "A Phone Call to Madrid",
+      "words": 2700
+    },
+    {
+      "ch": 15,
+      "title": "The Wrong Rebar",
+      "words": 3100
+    },
+    {
+      "ch": 16,
+      "title": "Emilio's First Wife",
+      "words": 3400
+    },
+    {
+      "ch": 17,
+      "title": "The View from the Cantilever",
+      "words": 2900
+    },
+    {
+      "ch": 18,
+      "title": "The Art of the Bribe",
+      "words": 2800
+    },
+    {
+      "ch": 19,
+      "title": "What Mother Wanted",
+      "words": 3300
+    },
+    {
+      "ch": 20,
+      "title": "The Surveyor's Tool",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "A Stone in Still Water",
+      "words": 3100
+    },
+    {
+      "ch": 22,
+      "title": "The Doctor's Warning",
+      "words": 2800
+    },
+    {
+      "ch": 23,
+      "title": "The Night Before the Pour",
+      "words": 3500
+    },
+    {
+      "ch": 24,
+      "title": "The Pour",
+      "words": 3700
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a hidden letter or object in the walls of the old house, revealing a secret about the mother.",
+      "Draft a monologue from Emilio's perspective, decades earlier, as he first stakes his claim on the cliff's edge.",
+      "Imagine a chapter from the point of view of the local cement supplier, caught between Lorenzo's demands and his own survival.",
+      "Write a 'deleted scene' of a conversation Soledad has with a gallery owner in Madrid, where she tries to explain the art she's selling and thinks of the concrete skeleton back home."
+    ],
+    "technical": [
+      "Design a simple web-based 'Structural Integrity Calculator' where users input variables (cement grade, rebar spacing, wind load) to see if Emilio's house would theoretically stand.",
+      "Create a 'Generational Dialogue Map' visualization tool that charts the frequency and tone of spoken exchanges between Lorenzo, Soledad, and Emilio across the 24 chapters."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Julio Cortázar",
+      "Juan Rulfo",
+      "Clarice Lispector",
+      "Samuel Beckett"
+    ]
+  },
+  "cover_prompt": "A solitary, brutalist concrete house perched impossibly on the jagged edge of a coastal cliff, its sharp geometric forms defying gravity and erosion, with a single figure of a man seen from behind in a distant window, [Detailed Scene & Context: the structure shows hairline fractures in the concrete and the relentless ocean below churns against the rocks, a worn path leads to the house but ends abruptly, suggesting isolation], [Artistic Style & Medium: in the atmospheric style of Hiroshi Sugimoto's seascapes combined with the minimalist architectural tension of Luisa Lambri, rendered as a large format photographic print with immense detail and grain], [Composition & Camera: book cover framing, an extreme wide shot from a low angle that emphasizes the cliff's drop and the house's precarious dominance, centered composition to create a stark, iconic silhouette against the sky], [Lighting & Color Palette: bleak, overcast daylight with a muted, monochromatic palette of concrete grays, ocean foam whites, and stormy sky blues, with a single cold highlight on the window, conveying a mood of solemn permanence and silent tension], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
