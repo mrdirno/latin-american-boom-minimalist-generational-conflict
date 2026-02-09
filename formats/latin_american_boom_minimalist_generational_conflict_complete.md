@@ -2,7 +2,8 @@
 
 ## CHAPTER 1
 
-The last of the good cement was gone. Lorenzo knew it by the sound the mixer made, a wet, grinding complaint, not the steady thrum of proper mixture. He let the machine churn, a useless gray slurry sloshing inside its drum, and wiped his forearm across his brow. The salt of his sweat was the same as the sea’s, a kilometer down the cliff and out of sight. He lit a *puro*, the smoke harsh and honest, and looked at the house.
+Mamá’s silence was a room we all lived in. We breathed its dust, moved through its still air, learned its unspoken grammar. Papá carved his replies into wood—a chair leg, a table edge—leaving his arguments in curled shavings on the floor. We swept them up each evening, saying nothing.
+
 
 It was a skeleton of rebar and wooden forms, a geometric ghost on the cliff’s edge. His father’s house. The one the old man would never live in. Lorenzo had known this when he took the contract. He knew it when he ordered the materials, when he drove the first stake into the hard, unyielding dirt. Knowing was the family business.
 
