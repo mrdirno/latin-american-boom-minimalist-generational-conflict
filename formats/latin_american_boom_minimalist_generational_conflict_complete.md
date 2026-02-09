@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The last of the good cement was gone. Lorenzo knew it by the sound the mixer made, a wet, grinding complaint, not the steady thrum of proper mixture. He let the machine churn, a useless gray slurry sloshing inside its drum, and wiped his forearm across his brow. The salt of his sweat was the same as the sea’s, a kilometer down the cliff and out of sight. He lit a *puro*, the smoke harsh and honest, and looked at the house.
@@ -181,6 +183,8 @@ He believed in the load-bearing capacity of a properly mixed column. He believed
 The rest—the whys, the legacies, the ghosts and phantoms—that was the architecture. And he was not the architect. He was the builder.
 
 The food was ready. He divided it onto three plates. He carried them out, across the darkening yard, to the old house where the light burned and where his family waited, each in their own separate room of the past.
+
+# Chapter 2
 
 ## CHAPTER 2
 
@@ -419,6 +423,8 @@ When he reached the site, he didn’t go inside. He walked to the edge of the cl
 He took the folded paper from Rojas from his pocket. He couldn’t see the numbers, but he felt them. A debt. A chain. A solution.
 
 He tore the paper into tiny pieces and let the south wind take them, scattering them like gray, weightless ash into the void.
+
+# Chapter 3
 
 ## CHAPTER 3
 
